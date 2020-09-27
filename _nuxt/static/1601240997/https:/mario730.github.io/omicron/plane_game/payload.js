@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/https://mario730.github.io/omicron/plane_game", {data:[],fetch:[],mutations:void 0});
